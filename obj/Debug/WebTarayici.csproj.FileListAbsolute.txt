@@ -1,0 +1,10 @@
+C:\Users\oktay\Documents\Ybs\C#\WebTarayici\bin\Debug\WebTarayici.exe.config
+C:\Users\oktay\Documents\Ybs\C#\WebTarayici\bin\Debug\WebTarayici.exe
+C:\Users\oktay\Documents\Ybs\C#\WebTarayici\bin\Debug\WebTarayici.pdb
+C:\Users\oktay\Documents\Ybs\C#\WebTarayici\obj\Debug\WebTarayici.Form1.resources
+C:\Users\oktay\Documents\Ybs\C#\WebTarayici\obj\Debug\WebTarayici.Properties.Resources.resources
+C:\Users\oktay\Documents\Ybs\C#\WebTarayici\obj\Debug\WebTarayici.csproj.GenerateResource.cache
+C:\Users\oktay\Documents\Ybs\C#\WebTarayici\obj\Debug\WebTarayici.csproj.CoreCompileInputs.cache
+C:\Users\oktay\Documents\Ybs\C#\WebTarayici\obj\Debug\WebTarayici.exe
+C:\Users\oktay\Documents\Ybs\C#\WebTarayici\obj\Debug\WebTarayici.pdb
+C:\Users\oktay\Documents\Ybs\C#\WebTarayici\obj\Debug\WebTarayici.csprojAssemblyReference.cache

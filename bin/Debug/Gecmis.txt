@@ -1,0 +1,3 @@
+20  7  2020/14  20  46 /https://www.youtube.com/?gl=TR&tab=w1
+20  7  2020/14  21  10 /https://www.google.com.tr/?gws_rd=ssl
+20  7  2020/14  21  11 /https://www.google.com.tr/?gws_rd=ssl#spf=1595244070415
